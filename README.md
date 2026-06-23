@@ -15,9 +15,9 @@ A full-stack AI learning platform that combines course management, AI-powered ch
 **Repository:** https://github.com/naikdivesh/ai-super-hub
 **API Docs:** `https://<your-render-backend>.onrender.com/api/docs` *(Swagger UI — update with your deployed backend URL)*
 
-> _Tip: add 2–3 screenshots or a short GIF below to make the repo instantly readable for recruiters._
->
-> `![Dashboard](docs/screenshots/dashboard.png)`
+<img width="2560" height="1290" alt="image" src="https://github.com/user-attachments/assets/6676f2ae-666c-48bc-a189-4712228558a4" />
+
+
 
 ---
 
