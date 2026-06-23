@@ -13,9 +13,11 @@ A full-stack AI learning platform that combines course management, AI-powered ch
 
 **Live Demo:** https://ai-super-hub.vercel.app
 **Repository:** https://github.com/naikdivesh/ai-super-hub
-**API Docs:** `https://<your-render-backend>.onrender.com/api/docs` *(Swagger UI — update with your deployed backend URL)*
+
 
 <img width="2560" height="1290" alt="image" src="https://github.com/user-attachments/assets/6676f2ae-666c-48bc-a189-4712228558a4" />
+<img width="2560" height="1302" alt="image" src="https://github.com/user-attachments/assets/5f513a0c-453f-4c27-b9bf-615f44443c1e" />
+
 
 
 
